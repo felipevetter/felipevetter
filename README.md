@@ -10,7 +10,7 @@ Sou um Desenvolvedor Fullstack focado em construir produtos SaaS e ferramentas d
 
 ### 🛠️ Projetos em Destaque
 
-**[@scopeact/autoi18n](https://github.com/felipevetter/autoi18n)**
+**[@scopeact/autoi18n](https://github.com/felipevetter/auto-i18n)**
 Uma ferramenta de linha de comando (CLI) que utiliza AST (Abstract Syntax Trees) para varrer código React, extrair textos hardcoded e utilizar IA para gerar arquivos de internacionalização automaticamente.
 > `npm install @scopeact/autoi18n`
 
