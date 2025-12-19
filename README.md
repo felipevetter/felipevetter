@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, sou o Felipe 👋
 
-<!--
-**felipevetter/felipevetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor Fullstack focado em construir produtos SaaS e ferramentas de produtividade para desenvolvedores.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente fundando o **[ScopeAct](https://scopeact.com)** (SaaS de contratos e pagamentos).
+- 🚀 Criador do **[@scopeact/autoi18n](https://github.com/felipevetter/auto-i18n)**, uma CLI para automatizar i18n com IA.
+- ⚡ **Stack:** Next.js, React, TypeScript, Node.js, Tailwind, PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Projetos em Destaque
+
+**[@scopeact/autoi18n](https://github.com/felipevetter/autoi18n)**
+Uma ferramenta de linha de comando (CLI) que utiliza AST (Abstract Syntax Trees) para varrer código React, extrair textos hardcoded e utilizar IA para gerar arquivos de internacionalização automaticamente.
+> `npm install @scopeact/autoi18n`
+
+---
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/felipevetter) • [Email](mailto:vetterfelipe@hotmail.com)
